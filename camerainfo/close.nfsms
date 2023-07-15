@@ -1,0 +1,6 @@
+update_field camerainfo close HEIGHT[1] 1.9
+update_field camerainfo close HEIGHT[0] 1.85
+update_field camerainfo close LAG[1] -4.7
+update_field camerainfo close LAG[0] -4.3
+update_field camerainfo close FOV[1] 78
+update_field camerainfo close FOV[0] 73
